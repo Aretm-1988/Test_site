@@ -1,0 +1,139 @@
+.body {
+    font-family: sans-serif;
+}
+.menu {
+    list-style-type: none;
+    border: 3px solid green;
+    width: auto;
+    height: auto;
+}
+.text {
+    font-size: 16px;
+    line-height: 26px;
+    color: blue;
+}
+
+.main-title {
+    font-size: 64px;
+
+}
+
+.contacts_title {
+    font-weight: 500;
+    font-size: 44px;
+    text-align: center;
+}
+
+.title {
+    font-size: 36px;
+    text-align: center;
+}
+
+.mini_title {
+    font-size: 20px;
+    line-height: 30px;
+
+}
+
+.main_div{
+    border: 1px solid red;
+    width: 900px;
+    height: 300px;  
+}
+
+.div_top_info{
+    border: 1px solid blue;
+    width: 720px;
+    height: 220px;
+}
+
+.div_we_do{
+    border: 1px solid blue;
+    width: 900px;
+    height: 400px;
+}
+.div_card{
+    border: 1px solid green;
+    width: 700px;
+    height: 280px;
+}
+.div4{
+    border: 1px solid black;
+    width: 650px;
+    height: 275px;
+}
+.div_project{
+    border: 1px solid red;
+    width: 900px;
+    height: 100px;   
+}
+
+.div_footer{
+    border: 1px solid orange;
+    width: 900px;
+    height: 100px; 
+}
+.div_footer_top{
+    border: 1px solid purple;
+    width: 900px;
+    height: 100px; 
+}
+.div_footer_down{
+    border: 1px solid green;
+    width: 900px;
+    height: 150px; 
+}
+.div_footer_copy{
+    border: 1px solid grey;
+    width: 800px;
+    height: 50px; 
+}
+.div_contacts_info{
+    border: 1px solid blue;
+    width: 900px;
+    height: 220px; 
+    background-image: url(img/ocean.jpg);
+    text-align: center;
+}
+.data-place {
+    border: 1px solid #356EAD;
+    box-sizing: border-box;
+    border-radius: 10px;
+    opacity: 0.4;    
+}
+
+.Submit {
+    background: #5A98D0;
+    box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+.div_midle_contacts{
+    border: none;
+    width: 300px;
+    height: 500px;
+    column-gap: normal; 
+    float: left;
+}
+.div_midle_contacts2{
+    border: none;
+    width: 300px;
+    height: 400px;
+    float: right;
+}
+.div_map{
+    margin-left: 400px;
+    padding-top: 600px;
+    width: 200%;
+}
+.last_div_contacts{
+    background-color: blue;
+    padding-top: 20px;
+    text-align: left;
+    padding: 5px;
+}
